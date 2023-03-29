@@ -4,7 +4,7 @@ This is the backend api of a full stack project called Workout buddy.
 
 This is built with the help of Express.js and Node.js. The Mongo DB is used as the database for storing the workout details and user details.
 
-The workouts are specific for the users and they are accessable only if the user is logged in. The user login will be verified with the help of JWT(JSON web token) that will be provided to the client(browser) at the time of login or signup.
+The workouts are specific for the users and they are accessible only if the user is logged in. The user login will be verified with the help of JWT(JSON web token) that will be provided to the client(browser) at the time of login or signup.
 
 ### Routes
 There are two api routes provided for the users.

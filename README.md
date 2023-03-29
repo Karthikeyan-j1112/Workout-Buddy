@@ -21,7 +21,8 @@ And five api routes for workouts.
 
 This api is hosted online with the help of [render.com](https://render.com/)
 
-Link for this api - [https://workoutbuddy-whov.onrender.com](https://workoutbuddy-whov.onrender.com)
+### Link for this api:
+[https://workoutbuddy-whov.onrender.com](https://workoutbuddy-whov.onrender.com)
 
 Note: you cannot access the routes directly on browser because you need authentication with JWT. 
 

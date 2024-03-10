@@ -1,6 +1,6 @@
 # workout-buddy-api
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/jkarthi7401)
 
 This is the backend api of a full stack project called Workout buddy.
 

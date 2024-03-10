@@ -1,7 +1,5 @@
 # workout-buddy-api
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/jkarthi7401)
-
 This is the backend api of a full stack project called Workout buddy.
 
 This is built with the help of Express.js and Node.js. The Mongo DB is used as the database for storing the workout details and user details.
